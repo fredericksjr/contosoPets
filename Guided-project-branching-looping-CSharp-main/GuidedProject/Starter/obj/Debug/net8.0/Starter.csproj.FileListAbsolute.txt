@@ -1,0 +1,15 @@
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/workspaces/contosoPets/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
